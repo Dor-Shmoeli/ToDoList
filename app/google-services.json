@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "173238447953",
+    "firebase_url": "https://firetest-212e5-default-rtdb.firebaseio.com",
+    "project_id": "firetest-212e5",
+    "storage_bucket": "firetest-212e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173238447953:android:0d95f45461f79e9b666d70",
+        "android_client_info": {
+          "package_name": "com.example.myschedulingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173238447953-itjcd9p9p5al7r9r5o4vsmc77to96fkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myschedulingapp",
+            "certificate_hash": "7930369df9c050748c69a5313db14099650a6c2a"
+          }
+        },
+        {
+          "client_id": "173238447953-cc1ud3tbdslf3r5b4ccgun5i88tg2r5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmGJGOc3bZ624C-52CCeNcZIQUTNT2lAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173238447953-cc1ud3tbdslf3r5b4ccgun5i88tg2r5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
